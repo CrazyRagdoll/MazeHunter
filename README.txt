@@ -13,9 +13,7 @@ Pygame version 1.9.1
 
 With them installed simply run the game "AIGames.py"!!
 
-
 HAVE FUN!!
-
 
 The Key bindings(movement):
 
@@ -24,18 +22,11 @@ Down  Arrow - Move down one space
 Left  Arrow - Move left one space
 Right Arrow - Move right one space
 
-
-
 Debugging:
 
 Escape - Closes the game
 
-
-
 'Z' - Disables Agent "Nose"
-
-
 'X' - Disables Agent "Ear"
-
 'C' - Disables Agent "Eyeball"
 'V' - Enables "Colour Mode" - Colours the agents and display's Eyeball's ling of sight
