@@ -6,10 +6,10 @@ Hello! This is my Artificial Intelligence game which I have created for A.I. mod
 How to Play:
 
 This is a simple game which uses Python & Pygame. 
+ 
+Python version 2.7.10 https://www.python.org/downloads/windows/
 
-Python version 2.7.10
-
-Pygame version 1.9.1
+Pygame version 1.9.1 http://www.pygame.org/download.shtml
 
 With them installed simply run the game "AIGames.py"!!
 
