@@ -2,6 +2,7 @@
 
 Hello! This is my Artificial Intelligence game which I have created for A.I. module at the University of Brighton.
 
+You can view the game, and other on my youtube channel! https://www.youtube.com/watch?v=IGI0Rn1AEgc
 
 How to Play:
 
